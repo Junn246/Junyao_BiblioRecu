@@ -1,0 +1,10 @@
+cd dam2m5uf2  
+mkdir BiblioRecu
+cd BiblioRecu
+git init
+nano LICENSE.TXT
+nano README.TXT
+nano .gitignore   *.exe
+git add .
+git commit -m "Licencia, fitxer readme i gitignore"
+git push https://github.com/Junn246/Junyao_BiblioRecu master
